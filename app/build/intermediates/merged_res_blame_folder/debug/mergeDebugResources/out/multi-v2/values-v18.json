@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.lins.card.app-mergeDebugResources-63:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/lins/.gradle/caches/9.1.0/transforms/02628333d0df1f7d31e7de857dc1836d/transformed/appcompat-1.2.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
